@@ -6,7 +6,7 @@
 
 <h3>LINK: https://less-social-links.vercel.app/</h3>
 <a href="https://less-social-links.vercel.app/" target="_blank">
- <img src="./.github/preview.png" width="100%" style="border-radius: 6px" />
+ <img src="./.github/preview2.png" width="100%" style="border-radius: 6px" />
 </a>
 
 ## 💻 Projeto
